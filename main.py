@@ -1,4 +1,4 @@
 def foo():
-    print("bar bar")
+    print("bar")
 
 foo()
